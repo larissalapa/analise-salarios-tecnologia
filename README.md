@@ -24,8 +24,3 @@ Este projeto tem como objetivo prever se um salário em tecnologia é acima ou a
 
 Os dados foram obtidos a partir do dataset **[“Global Technology Salary Data”](https://www.kaggle.com/datasets/ruchi798/global-tech-salaries)** disponível no Kaggle.
 
-## Como rodar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/SEU_USUARIO/nome-do-repositorio.git
